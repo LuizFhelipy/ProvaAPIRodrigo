@@ -1,0 +1,29 @@
+{
+  "name": "provarodrigo",
+  "version": "1.0.0",
+  "description": "provinha do rodrigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizFhelipy/ProvaAPIRodrigo.git"
+  },
+  "keywords": [
+    "prova",
+    "api"
+  ],
+  "author": "Luiz Fhelipy Rodrigues Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizFhelipy/ProvaAPIRodrigo/issues"
+  },
+  "homepage": "https://github.com/LuizFhelipy/ProvaAPIRodrigo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
